@@ -1,1 +1,1 @@
-# etch-a-sketch
+Strengthening HTML, CSS, and Javascript skills with Etch-a-Sketch
